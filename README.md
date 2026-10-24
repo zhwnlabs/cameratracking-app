@@ -1,4 +1,4 @@
-# RetroLens Android
+# RetroLens Android (work in pause)
 
 Aplikasi Android portrait berbasis Ionic React + Capacitor untuk efek kamera retro dengan deteksi tangan real-time.
 
